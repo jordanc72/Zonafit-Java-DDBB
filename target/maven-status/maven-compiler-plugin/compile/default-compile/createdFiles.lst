@@ -1,0 +1,6 @@
+zona_fit\datos\IClienteDAO.class
+zona_fit\dominio\Cliente.class
+zona_fit\conexion\Conexion.class
+zona_fit\datos\ClienteDAO.class
+zona_fit\zonafit\ZonaFit.class
+zona_fit\presentacion\ZonaFitApp.class
